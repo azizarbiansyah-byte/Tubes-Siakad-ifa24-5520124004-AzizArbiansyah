@@ -38,7 +38,7 @@ Aplikasi web berbasis **Laravel** yang mensimulasikan Sistem Informasi Akademik 
   - Batas maksimal **24 SKS**
   - Export KRS ke **PDF**
 
-Akses Apilikasi URL : 
+Akses Apilikasi URL : https://arby.ifalgorithm24.web.id/
 
 ## Akun Default
 
@@ -46,6 +46,7 @@ Akses Apilikasi URL :
 |---|---|---|
 | Admin | `admin` | `admin123` |
 | Mahasiswa | Nama Lengkap | NPM |
+| Mahasiswa | Balqis | 5520124444 |
 
 ## Informasi Pengembang
 
